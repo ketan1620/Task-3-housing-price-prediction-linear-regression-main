@@ -117,7 +117,7 @@ housing-price-prediction-linear-regression/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/atharmshaikh/housing-price-prediction-linear-regression.git
+git clone https://github.com/ketan1620/Task-3-housing-price-prediction-linear-regression-main.git
 cd housing-price-prediction-linear-regression
 ```
 
@@ -138,7 +138,7 @@ jupyter notebook linear_regression_model.ipynb
 Or use Google Colab by replacing the GitHub URL in the browser like this:
 
 ```
-https://githubtocolab.com/atharmshaikh/housing-price-regression-analysis/blob/main/linear_regression_model.ipynb
+https://githubtocolab.com/ketan1620/Task-3-housing-price-prediction-linear-regression-main/blob/main/linear_regression_model.ipynb
 ```
 
 ---
